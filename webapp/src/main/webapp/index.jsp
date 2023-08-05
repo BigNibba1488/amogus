@@ -3,7 +3,7 @@
     <h1>New user Register for DevOps Learning</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
-     
+    <img src="https://media.tenor.com/XCAEtru0ZVMAAAAC/sumi-sakurasawa-dance.gif" alt="lol no">
     <label for="Name"><b>Enter Name</b></label>
     <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
     <br>
