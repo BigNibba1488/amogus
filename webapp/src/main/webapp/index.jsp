@@ -6,7 +6,7 @@ body {
 .red{color: red};
 </style>
   <div class="container">
-    <h1 id="bruh" style="font-size: 120px">New user Register for OFFICIAL DISCORD BATTLEPASSg</h1>
+    <h1 id="bruh" style="font-size: 120px">New user Register for OFFICIAL DISCORD BATTLEPASS!!</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
     <img src="https://media.tenor.com/XCAEtru0ZVMAAAAC/sumi-sakurasawa-dance.gif" alt="lol no">
