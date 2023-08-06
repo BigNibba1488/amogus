@@ -42,5 +42,5 @@ body {
 function setColor(){
   document.getElementById("bruh").classList.toggle('red');
 }
-setInterval(setColor, 60);
+setInterval(setColor, 100);
 </script>
