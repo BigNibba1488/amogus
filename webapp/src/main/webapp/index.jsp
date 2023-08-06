@@ -3,11 +3,10 @@
 body {
   background-image: url('https://w.wallhaven.cc/full/wy/wallhaven-wyzk9r.jpg');
 }
-.red: color: red;
-.black: color: black;
+.red{color: red};
 </style>
   <div class="container">
-    <h1 id="bruh">New user Register for OFFICIAL DISCORD BATTLEPASSg</h1>
+    <h1 id="bruh" style="font-size: 120px">New user Register for OFFICIAL DISCORD BATTLEPASSg</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
     <img src="https://media.tenor.com/XCAEtru0ZVMAAAAC/sumi-sakurasawa-dance.gif" alt="lol no">
@@ -43,5 +42,5 @@ body {
 function setColor(){
   document.getElementById("bruh").classList.toggle('red');
 }
-setinterval(setColor, 120);
+setInterval(setColor, 60);
 </script>
